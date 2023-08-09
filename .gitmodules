@@ -1,0 +1,12 @@
+[submodule "hugo/themes/navigator-hugo"]
+	path = hugo/themes/navigator-hugo
+	url = git@github.com:gethugothemes/navigator-hugo.git
+[submodule "polipulse/themes/navigator-hugo"]
+	path = polipulse/themes/navigator-hugo
+	url = git@github.com:gethugothemes/navigator-hugo.git
+[submodule "polipulse/themes/hugo-fresh"]
+	path = polipulse/themes/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh
+[submodule "polipulse/bulma"]
+	path = polipulse/bulma
+	url = https://github.com/jgthms/bulma
